@@ -7,3 +7,5 @@ The participatory democracy framework.
 ------------------------------------
 
 This is a fork of Decidim. Please look at [Decidim](https://github.com/decidim/decidim) for more informations.
+
+[Le Cercle Briochin](https://cerclebriochin.org/manifeste/)
